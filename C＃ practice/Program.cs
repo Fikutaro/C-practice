@@ -1,0 +1,15 @@
+﻿using System;
+
+namespace C__practice
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            const int NUMBER = 100;
+            const string STRING = "Hoge";
+            Console.WriteLine(NUMBER);
+            Console.WriteLine(STRING);
+        }
+    }
+}
